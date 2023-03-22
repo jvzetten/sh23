@@ -17,7 +17,7 @@ $GastenStart = "10.10.2.20"
 $GastenEnd = "10.10.2.100"
 $GastenRouter = "10.10.2.1"
 $GastenScopeID = "10.10.2.0"
-$DNSName = "ZZicht.gast"
+$GastenDNSName = "ZZicht.gast"
 $GastenDNSServers = "8.8.8.8","1.1.1.1"
 
 # Add the new DHCPv4 Medewerkers-scope
